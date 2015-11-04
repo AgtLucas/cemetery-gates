@@ -1,4 +1,5 @@
-import path from 'path';
+var path = require('path');
+var webpack = require('webpack');
 
 const config = {
 
