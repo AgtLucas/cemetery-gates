@@ -20,5 +20,17 @@
     "express": "^4.13.3",
     "react": "^0.14.2",
     "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "babel": "^6.0.15",
+    "babel-jscs": "^2.0.5",
+    "babel-loader": "^6.0.1",
+    "babel-plugin-react-transform": "^1.1.1",
+    "css-loader": "^0.21.0",
+    "postcss-loader": "^0.7.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.4.1"
   }
 }
