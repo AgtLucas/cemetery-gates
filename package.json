@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/cemetery-gates/issues"
   },
-  "homepage": "https://github.com/AgtLucas/cemetery-gates#readme"
+  "homepage": "https://github.com/AgtLucas/cemetery-gates#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
 }
