@@ -19,7 +19,8 @@
   "dependencies": {
     "express": "^4.13.3",
     "react": "^0.14.2",
-    "react-dom": "^0.14.2"
+    "react-dom": "^0.14.2",
+    "redux": "^3.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
